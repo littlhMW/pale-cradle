@@ -31,5 +31,8 @@ run/
 logs/
 crash-reports/
 
-# Gradle wrapper (regenerated)
-gradle/wrapper/gradle-wrapper.jar
+# Gradle wrapper
+!gradle/wrapper/gradle-wrapper.jar
+!gradlew
+!gradlew.bat
+!gradle/wrapper/gradle-wrapper.properties
