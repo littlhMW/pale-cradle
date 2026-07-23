@@ -1,0 +1,26 @@
+{
+  "entity.pale_cradle.kuxuezhe.ambient": {
+    "sounds": [
+      "minecraft:entity.warden.ambient"
+    ],
+    "subtitle": "subtitles.pale_cradle.kuxuezhe_ambient"
+  },
+  "entity.pale_cradle.kuxuezhe.hurt": {
+    "sounds": [
+      "minecraft:entity.warden.hurt"
+    ],
+    "subtitle": "subtitles.pale_cradle.kuxuezhe_hurt"
+  },
+  "entity.pale_cradle.kuxuezhe.death": {
+    "sounds": [
+      "minecraft:entity.warden.death"
+    ],
+    "subtitle": "subtitles.pale_cradle.kuxuezhe_death"
+  },
+  "entity.pale_cradle.kuxuezhe.scream": {
+    "sounds": [
+      "minecraft:entity.warden.sonic_boom"
+    ],
+    "subtitle": "subtitles.pale_cradle.kuxuezhe_scream"
+  }
+}

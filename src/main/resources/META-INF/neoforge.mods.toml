@@ -1,0 +1,40 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="苍白摇篮 (Pale Cradle)"
+logoFile="pale_cradle.png"
+credits=""
+authors="${mod_authors}"
+description='''
+A boss mod adding the Withered Blood One (枯血者) - a hanging vampire boss with two combat phases.
+
+Phase 1: Hangs from chains ~7 blocks high, uses scream and curse attacks.
+Phase 2: Drops to ground, crawls rapidly, pounces 3-5 times, then jumps back for a scream.
+
+Features GeckoLib-animated custom entity with full combat AI.
+'''
+
+[[dependencies.${mod_id}]]
+modId="neoforge"
+type="required"
+versionRange="[${neo_version},)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.${mod_id}]]
+modId="minecraft"
+type="required"
+versionRange="[${minecraft_version},1.21.2)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.${mod_id}]]
+modId="geckolib"
+type="required"
+versionRange="[4.7,)"
+ordering="NONE"
+side="BOTH"

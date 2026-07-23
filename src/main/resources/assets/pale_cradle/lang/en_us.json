@@ -1,0 +1,13 @@
+{
+  "itemGroup.pale_cradle": "苍白摇篮 (Pale Cradle)",
+  "entity.pale_cradle.kuxuezhe": "枯血者 (Withered Blood One)",
+  "entity.pale_cradle.pale_minion": "苍白仆从 (Pale Minion)",
+  "item.pale_cradle.kuxuezhe_spawn_egg": "枯血者 刷怪蛋",
+  "item.pale_cradle.pale_minion_spawn_egg": "苍白仆从 刷怪蛋",
+  "subtitles.pale_cradle.kuxuezhe_ambient": "枯血者：低吟",
+  "subtitles.pale_cradle.kuxuezhe_hurt": "枯血者：受伤",
+  "subtitles.pale_cradle.kuxuezhe_death": "枯血者：死亡",
+  "subtitles.pale_cradle.kuxuezhe_scream": "枯血者：尖啸",
+  "subtitles.pale_cradle.kuxuezhe_curse": "枯血者：诅咒",
+  "subtitles.pale_cradle.kuxuezhe_summon": "枯血者：召唤仆从"
+}
